@@ -1,0 +1,19 @@
+$uicideboy$- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3pNd8RaOWdwP5ZC841Tgav?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Arctic Monkeys- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BxE4FqsDD1Ot4YuBXwAPp?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+MF Doom- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2x98hOxbd1cnV6AKhPRUcX?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Ghostemane- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/504dRZBxp2BVLxlpcE135R?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Kanye West- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zLClc0emc6qUeV1p5nc99?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Lil Peep- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4AiFSXnVm0Bqecjdn3Brr8?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+A$AP Rocky- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/643PW82aBMUa1FiWi5VQY7?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Tyler, the Creator- <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/26236416&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gnorilla" title="Beach" target="_blank" style="color: #cccccc; text-decoration: none;">Beach</a> · <a href="https://soundcloud.com/gnorilla/02-seven" title="02 Seven" target="_blank" style="color: #cccccc; text-decoration: none;">02 Seven</a></div>
+       
+The Weeknd- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1cKHdTo9u0ZymJdPGSh6nq?utm_source=generator" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
